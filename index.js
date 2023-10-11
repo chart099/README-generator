@@ -64,21 +64,23 @@ inquirer
 function makeREADME(input) {
     return `
     
-    
-    # ${input.title}
+# ${input.title}  
+
+![Static Badge](https://img.shields.io/badge/${input.license})
+
+
 
 ## Description
 
 ${input.description}
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
+-[How to Contribute](#howtocontriubte)
+-[Tests](#tests)
 
 ## Installation
 
