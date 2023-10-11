@@ -66,7 +66,8 @@ function makeREADME(input) {
     
 # ${input.title}  
 
-![Static Badge](https://img.shields.io/badge/${input.license})
+https://img.shields.io/badge/${license}
+
 
 
 
