@@ -104,7 +104,7 @@ ${input.tests}
 
 ## Questions
 
-Created by: [${input.username}][github.com/${input.username}]
+Created by: [${input.username}](github.com/${input.username})
 
 Further questions may be sent to ${input.email}
 `
