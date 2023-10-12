@@ -69,8 +69,6 @@ function makeREADME(input) {
 https://img.shields.io/badge/${input.license}
 
 
-
-
 ## Description
 
 ${input.description}
@@ -80,8 +78,9 @@ ${input.description}
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
--[How to Contribute](#howtocontriubte)
--[Tests](#tests)
+- [Contributing](#contributing)
+- [Tests](#tests)
+
 
 ## Installation
 
@@ -95,15 +94,18 @@ ${input.usage}
 
 ${input.license}
 
-## Badges
-
-
-## How to Contribute
+## Contributing
 
 ${input.contribute}
 
 ## Tests
 ${input.tests}
+
+##Questions
+
+Created by: github.com/${input.username}
+
+Further questions may be sent to ${input.email}
 `
 }
 
