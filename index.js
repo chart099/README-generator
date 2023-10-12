@@ -34,8 +34,9 @@ inquirer
             name: "tests"
         },
         {
-            type: "dropdown",
+            type: "list",
             message: "Select a license",
+            choices: [],
             name: "license"
         },
         {
@@ -80,6 +81,7 @@ ${input.description}
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Questions](#questions)
 
 
 ## Installation
