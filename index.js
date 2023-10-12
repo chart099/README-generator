@@ -36,7 +36,7 @@ inquirer
         {
             type: "list",
             message: "Select a license",
-            choices: ["MIT", ],
+            choices: ["MIT", "Apache", "GNU", "BSD 2-Clause", "BSD 3-Clause"],
             name: "license"
         },
         {
@@ -67,8 +67,7 @@ function makeREADME(input) {
     
 # ${input.title}  
 
-https://img.shields.io/badge/license-${input.license}-blue.svg
-
+![Alt text](https://img.shields.io/badge/license-${input.license}-blue.svg "a title")
 
 ## Description
 
@@ -103,9 +102,9 @@ ${input.contribute}
 ## Tests
 ${input.tests}
 
-##Questions
+## Questions
 
-Created by: github.com/${input.username}
+Created by: [${input.username}][github.com/${input.username}]
 
 Further questions may be sent to ${input.email}
 `
