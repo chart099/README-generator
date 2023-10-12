@@ -67,7 +67,7 @@ function makeREADME(input) {
     
 # ${input.title}  
 
-https://img.shields.io/badge/${input.license}-$%7Blicense%7D-blue.svg
+https://img.shields.io/badge/license-${input.license}-blue.svg
 
 
 ## Description

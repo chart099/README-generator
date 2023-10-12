@@ -1,13 +1,13 @@
 
     
-# title  
+#   
 
-https://img.shields.io/badge/MIT-$%7Blicense%7D-blue.svg
+https://img.shields.io/badge/license-MIT-blue.svg
 
 
 ## Description
 
-project
+
 
 ## Table of Contents
 
@@ -21,11 +21,11 @@ project
 
 ## Installation
 
-install
+
 
 ## Usage
 
-usage
+
 
 ## License
 
@@ -36,10 +36,10 @@ MIT
 undefined
 
 ## Tests
-tests
+
 
 ##Questions
 
-Created by: github.com/username
+Created by: github.com/
 
-Further questions may be sent to email
+Further questions may be sent to 
