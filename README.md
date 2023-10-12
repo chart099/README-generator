@@ -1,12 +1,12 @@
 
     
-# jythrg  
+# README generator  
 
 ![Alt text](https://img.shields.io/badge/license-MIT-blue.svg "a title")
 
 ## Description
 
-hmgnbfv
+This project allows a user to create a professional README file by inputting details about their project into a comand line interface
 
 ## Table of Contents
 
@@ -20,11 +20,11 @@ hmgnbfv
 
 ## Installation
 
-mhgnbfv
+Clone the repository to a new device
 
 ## Usage
 
-juythrgef
+This README generator can be used for any kind of coding project
 
 ## License
 
@@ -35,10 +35,10 @@ MIT
 undefined
 
 ## Tests
-mhngfbdv
+Tests not needed at this time
 
 ## Questions
 
-Created by: [myutnbv](github.com/myutnbv)
+Created by: [chart099](github.com/chart099)
 
-Further questions may be sent to mnybtv
+Further questions may be sent to no email provided
