@@ -36,7 +36,7 @@ inquirer
         {
             type: "list",
             message: "Select a license",
-            choices: [],
+            choices: ["MIT", ],
             name: "license"
         },
         {
@@ -67,7 +67,7 @@ function makeREADME(input) {
     
 # ${input.title}  
 
-https://img.shields.io/badge/${input.license}
+https://img.shields.io/badge/${input.license}-$%7Blicense%7D-blue.svg
 
 
 ## Description

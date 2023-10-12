@@ -1,13 +1,13 @@
 
     
-# Title  
+# title  
 
-https://img.shields.io/badge/license
+https://img.shields.io/badge/MIT-$%7Blicense%7D-blue.svg
 
 
 ## Description
 
-description
+project
 
 ## Table of Contents
 
@@ -16,11 +16,12 @@ description
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Questions](#questions)
 
 
 ## Installation
 
-instructions
+install
 
 ## Usage
 
@@ -28,7 +29,7 @@ usage
 
 ## License
 
-license
+MIT
 
 ## Contributing
 
